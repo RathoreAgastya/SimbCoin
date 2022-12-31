@@ -1,9 +1,4 @@
 
-
-"""
-create a cryptocurrency called SimbCoin
-"""
-
 import datetime, hashlib, json, requests
 from flask import Flask, jsonify, request
 from uuid import uuid4
